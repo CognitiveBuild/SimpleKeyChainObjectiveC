@@ -1,8 +1,8 @@
 coverage:
   notify:
     slack: 
-      default:
-        url: "https://hooks.slack.com/services/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"
+      CognitiveCoE:
+        url: https://hooks.slack.com/services/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
         target: 85%
         threshold: 1.25%
         flag: unittests
