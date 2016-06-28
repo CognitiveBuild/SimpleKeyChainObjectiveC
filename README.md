@@ -3,9 +3,9 @@
 [![codecov](https://codecov.io/gh/CognitiveBuild/SimpleKeyChainObjectiveC/branch/master/graph/badge.svg)](https://codecov.io/gh/CognitiveBuild/SimpleKeyChainObjectiveC)
 
 ###Table of Contents
-  * [Setup](#Setup)
-  * [Usage](#Usage)
-  * [License](#License)
+  * [Setup](#setup)
+  * [Usage](#usage)
+  * [License](#license)
 
 #Setup
 Copy generated SimpleKeyChainLibrary.framework into your Xcode project, place the code below where you need it:

@@ -13,7 +13,7 @@ after_success:
   - bash <(curl -s https://codecov.io/bash)
 coverage:
   notify:
-    slack: 
+    slack: gcggbsctooffice:JYFXpOunEvNnr7qdslrB1Lu4
       Library:
         target: 95%
         threshold: 1.25%
