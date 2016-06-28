@@ -1,14 +1,12 @@
 # Simple Keychain implementation of iOS Objetive-C
 [![Build Status](https://travis-ci.org/CognitiveBuild/SimpleKeyChainObjectiveC.svg?branch=master)](https://travis-ci.org/CognitiveBuild/SimpleKeyChainObjectiveC)
 
-Table of Contents
------------------
-* [Cognitive Build]
+###Table of Contents
   * [Setup](#Setup)
   * [Usage](#Usage)
   * [License](#License)
 
-# Setup
+#Setup
 Copy generated SimpleKeyChainLibrary.framework into your Xcode project, place the code below where you need it:
 ```objective-c
 // Define your account name of the KeyChain first, by default it is "ACCOUNT_KEY"
@@ -17,7 +15,7 @@ Copy generated SimpleKeyChainLibrary.framework into your Xcode project, place th
 #import <SimpleKeyChainLibrary/SimpleKeyChainLibrary.h>
 ```
 
-# Usage
+#Usage
 ### Store a string
 ```objective-c
 // Store a string
@@ -35,5 +33,5 @@ BOOL aValueShouldBeTrue = [SimpleKeyChain removeStringByKey:@"aKeyToBeUsed"];
 
 ```
 
-# License
+#License
 Copyright 2016 GCG GBS CTO Office under [the Apache 2.0 license](LICENSE).
