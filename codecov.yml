@@ -7,3 +7,15 @@ coverage:
     slack: 
       default:
         url: "secret:PFuNCzpapG5tAgfwrJnQmj3o53M/nXKNhDbWTxfFtRcWpMoSaeOVPga6rJrVW95JwPkvDdK/QE0q/hiJzylPebKSlHOE+3+TiGpJVVSCXqeT9V74XDNJyBb3lJkmPmzdcXY2ZQZmLs4uyaf3GSuzEo68Buu5mom729u1XWKpqi4="
+  status:
+    project:
+      default:
+        target: auto
+        threshold: null
+    patch:
+      default:
+        target: auto
+        threshold: null
+    changes:
+      default:
+        target: auto
