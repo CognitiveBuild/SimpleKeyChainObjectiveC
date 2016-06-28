@@ -1,5 +1,6 @@
 # Simple Keychain implementation of iOS Objetive-C
 [![Build Status](https://travis-ci.org/CognitiveBuild/SimpleKeyChainObjectiveC.svg?branch=master)](https://travis-ci.org/CognitiveBuild/SimpleKeyChainObjectiveC)
+[![codecov](https://codecov.io/gh/CognitiveBuild/SimpleKeyChainObjectiveC/branch/master/graph/badge.svg)](https://codecov.io/gh/CognitiveBuild/SimpleKeyChainObjectiveC)
 
 ###Table of Contents
   * [Setup](#Setup)
